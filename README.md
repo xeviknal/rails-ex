@@ -17,6 +17,8 @@
 
 <!-- tocstop -->
 
+Hey buddy, here I am, ready for a deploy within OpenShift cluster.
+
 Rails Sample App on OpenShift
 ============================
 
