@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
-  before_filter :introduce_mistakes
+  before_action :introduce_mistakes
 
   private
 
